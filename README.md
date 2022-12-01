@@ -1,1 +1,1 @@
--Hey There 👋,I'm Ashfaq from Hyderabad, India.👀I’m interested in Web Development. I’m currently learning JavaScript.I have good experience to create build web and app development. I'd like to discuss about idea and build modern and creative website.Also,I like to play cricket, listening to music.
+-Hey There 👋,I'm Ashfaq from Hyderabad, India.👀I’m interested in Web Development. I’m currently learning JavaScript.I'd like to discuss about idea and build modern and creative website.Also,I like to play cricket, listening to music.
